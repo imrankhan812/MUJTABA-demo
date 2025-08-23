@@ -1,3 +1,2 @@
-# MUJTABA-demo
-this is my first git Respository
-mujtaba khan
+# git-demo
+i am mujtaba khan
