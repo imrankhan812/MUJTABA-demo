@@ -116,11 +116,11 @@ section h2 {
     background-color: #1e293b;
     padding: 20px 30px;
     border-radius: 10px;
-    transition: 0.3s;
+    transition:0.3s; 
 }
 
 .skill-card:hover {
-    transform: translateY(-5px);
+    transform: translatey(5px);
 }
 
 
